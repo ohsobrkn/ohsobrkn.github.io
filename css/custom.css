@@ -415,6 +415,7 @@ div#archive {
   background: var(--trans-dark);
 }
 
+/*————————
 /* 设置主页文章的透明背景 */
 .article-card {
   background: rgba(255, 255, 255, 0.5); /* 调整透明度，0 为完全透明，1 为不透明 */
@@ -446,7 +447,9 @@ div#archive {
   color: #ffffff;
 }
 
+/*————————加载动画显示的图片————————*/
 .loading-img {
   background: url(/img/logo0002.png) no-repeat center center;
   background-size: cover;
 }
+/*————————加载动画显示的图片——end——————*/
