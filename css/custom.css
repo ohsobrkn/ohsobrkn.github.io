@@ -449,7 +449,8 @@ div#archive {
 
 /*————————加载动画显示的图片————————*/
 .loading-img {
-  background: url(/img/logo0002.png) no-repeat center center;
+  background: url(/img/logo0001.ico) no-repeat center center;
   background-size: cover;
+  background-color: #e8d8b9;
 }
 /*————————加载动画显示的图片——end——————*/
